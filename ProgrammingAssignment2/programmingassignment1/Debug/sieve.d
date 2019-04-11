@@ -1,1 +1,0 @@
-sieve.o: ../sieve.cpp

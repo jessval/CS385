@@ -1,1 +1,0 @@
-stairclimber.o: ../stairclimber.cpp
